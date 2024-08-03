@@ -5,7 +5,6 @@
 ## Table of Contents
 
 - [Objective](#objective)
-- [Introduction](#introduction)
 - [Demo](#demo)
 - [Features](#features)
 - [Built With(Tech Stack)](#built-with)
@@ -17,12 +16,6 @@
 ### Objective
 
 Build a Credit Card Management system (web application) which can handle the entire lifecycle of a customer’s credit card. Functionality like adding and verifying credit card(s), fetching the credit card statement to generate a summary and extract insights and making payments for the card. The system should have a UI which gives the customers a clean interface to use.
-
----
-
-### Introduction
-
-As an externship program we had provided a project to make a Credit Card Management System similar to CRED. We successfully build the web application as well as android application. 
 
 ---
 
