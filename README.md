@@ -10,7 +10,6 @@
 - [Features](#features)
 - [Built With(Tech Stack)](#built-with)
 - [How to Get Started](#how-to-get-started)
-- [Deployed Links](#deployed-links)
 - [Developed By](#developed-by)
 
 ---
@@ -129,16 +128,6 @@ npm run dev - to run server and client concurrently
 npm run server - to run server standalone
 npm run client - to run client standalone.
 ```
-
----
-
-### Deployed Links
-
-- Web Application
-    - [Link](https://cred-t8.netlify.app/)
-- Demo Account
-    - email: ```cadel21249@vreagles.com```
-    - password: ```Temp@123```
 
 ---
 
