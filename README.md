@@ -1,5 +1,4 @@
-# CRED-T8
-Team ID: CRED-T8 | Team Members: Narendra Manglani &amp; Abhishek Ranjan
+# CRED- Credit Card Management System 
 
 ---
 
@@ -40,16 +39,16 @@ Below is a demo of final project.
 
 ### Features
 
-- User can login and register using email and password.
+- User can log in and register using email and password.
 - User can add their credit card.
-- User can update their details in Profile section.
-- Same card can be added by two or more users(need authorization to do so).
-- User can pay bill to decrease the outstanding amount.
-- User can take a look at all the statements for a specific month of a year.
-- User will get a graphical analysis of the spendings for every month.
-- User will get reminders on email and phone for last 5 days of every month(he/she has an option to disable reminders).
+- User can update their details in the Profile section.
+- The same card can be added by two or more users(need authorization to do so).
+- The user can pay the bill to decrease the outstanding amount.
+- Users can take a look at all the statements for a specific month of a year.
+- User will get a graphical analysis of the spending for every month.
+- The user will get reminders on email and phone for the last 5 days of every month(he/she has the option to disable reminders).
 - User will get reward points for timely paying credit card dues.
-- User can use the reward points to buy coupons for companies like Amazon, Flipkart, Myntra, etc.
+- Users can use the reward points to buy coupons for companies like Amazon, Flipkart, Myntra, etc.
 
 ---
 
@@ -128,7 +127,7 @@ REACT_APP_BACKEND_URL_PROD=<BACKEND_DEPLOYED_URL>
 
 9. In ``` frontend ``` directory run ``` npm install ```
 
-10. ``` cd backend ``` and exectute following command
+10. ``` cd backend ``` and execute following command
 ```
 npm run dev - to run server and client concurrently
 npm run server - to run server standalone
@@ -141,8 +140,6 @@ npm run client - to run client standalone.
 
 - Web Application
     - [Link](https://cred-t8.netlify.app/)
-- Android APK
-    - [Link](https://drive.google.com/file/d/1oxP7BQGEgGeFnLBS8aiM3V_DLA0UQnCK/view?usp=sharing)
 - Demo Account
     - email: ```cadel21249@vreagles.com```
     - password: ```Temp@123```
@@ -151,5 +148,4 @@ npm run client - to run client standalone.
 
 ### Developed By
 
- - [Abhishek Ranjan](https://www.github.com/arabhiar)
- - [Narendra Manglani](https://github.com/ishuu7)
+ - [Homak Patel](https://www.github.com/Homak-Patel)
