@@ -29,10 +29,6 @@ As an externship program we had provided a project to make a Credit Card Managem
 
 ### Demo
 
-Below is a demo of final project.
-
-- [Demo Link](https://www.youtube.com/watch?v=3rGtfzDxl0A)
-
 - GIF  <br/> <br/> ![](./assets/demo.gif)
 
 ---
